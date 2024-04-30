@@ -1,1 +1,19 @@
 # Your requirements go here
+replit==3.6.2
+Flask==3.0.3
+matplotlib==3.8.4
+pandas==2.2.2
+requests==2.31.0
+pkgs.google-cloud-sdk-gce
+  pkgs.tk
+  pkgs.tcl
+  pkgs.qhull
+  pkgs.pkg-config
+  pkgs.gtk3
+  pkgs.gobject-introspection
+  pkgs.ghostscript
+  pkgs.freetype
+  pkgs.ffmpeg-full
+  pkgs.cairo
+  pkgs.glibcLocales
+  pkgs.python311Packages.m3u8
