@@ -17,3 +17,5 @@ pkgs.google-cloud-sdk-gce
   pkgs.cairo
   pkgs.glibcLocales
   pkgs.python311Packages.m3u8
+google-auth
+gspread
